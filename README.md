@@ -8,11 +8,12 @@ To write a program to predict the price of the house and number of occupants in 
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.initialize weights
-2.predict output
-3.compute error
-4.update weights
-
+```
+1. initialize weights
+2. predict output
+3. compute error
+4. update weights
+```
 ## Program:
 ```
 /*
